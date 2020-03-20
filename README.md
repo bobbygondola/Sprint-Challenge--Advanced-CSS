@@ -39,11 +39,13 @@ Edit this document to include your answers after each question. Make sure to lea
 --------------Mobile first is when you build up from a mobile site to a desktop site with the mix-width tag. Desktop first is the opposite.
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
---------------
+--------------font-size: 62.5% in the html makes 1 rem 10px making it easy and logcal to style.
 
 4. How would you describe preprocessing to someone new to CSS?
+--------------Pre-processing makes sites easier to style logically, with functions parameters which you cant usually do in normal CSS
 
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+--------------My favorite part of Pore-processing is nesting and variables. Most trouble is parametric mixins, but they come with practice.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
