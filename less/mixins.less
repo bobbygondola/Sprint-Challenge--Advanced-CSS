@@ -1,1 +1,22 @@
 // Mixins Here
+
+.buttton(@borderwidth, @bordercolor, @borderstyle, @bgcolor, @color){
+    border-width: @borderwidth;
+    border-color: @bordercolor;
+    border-style: @borderstyle;
+    background-color: @bgcolor;
+    color: @color;
+}
+
+.btn{
+    width: 30%;
+    padding: 3%;
+    text-align: center;
+    font-size: 2rem;
+    border-radius: 10px;
+    .buttton(1px, black, solid, @btn-bg-color, @porcelain)
+    
+}
+.background{
+    background-color: @sea-shell;
+}
