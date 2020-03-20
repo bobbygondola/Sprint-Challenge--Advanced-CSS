@@ -33,11 +33,13 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the difference between an adaptive website and a fully responsive website?
---------------An adaptive website loads all possible layouts while a responsive website loads
+--------------An adaptive website loads all possible layouts while a responsive website loads a layout responsive to the pixel limit.
 
 2. Describe what it means to be mobile first vs desktop first.
+--------------Mobile first is when you build up from a mobile site to a desktop site with the mix-width tag. Desktop first is the opposite.
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
+--------------
 
 4. How would you describe preprocessing to someone new to CSS?
 
